@@ -1,4 +1,4 @@
-<h1 >I am Josh Young</h1>
+<h1 >Josh Young</h1>
 <h3>I Build Web Services, APIs, and Applications with Java and C#.</h3>
 
 - Visit My [Website](//www.joshayoung.com).
@@ -72,7 +72,7 @@
 <h3 align="left">My GitHub Stats:</h3>
 
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshayoung&show_icons=true&locale=en&layout=compact&hide=html,vim%20script,coffeescript,SCSS,Dockerfile,hack,scss&exclude_repo=99-bottles-of-oop,rails-basic-forms,basic-rails-mvc,basic-rails-mvc-js,plot-notes,rails_sandbox,rails_external_api_calls,rails-basic-scopes,rails-with-react,many-to-many-rails,one-to-many-rails,will-it-rain-ruby,rails-with-docker,rails-exhaustive-examples,rails-design-patterns&langs_count=10&custom_title=Top%20Languages" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshayoung&show_icons=true&locale=en&layout=compact&hide=html,vim%20script,coffeescript,SCSS,Dockerfile,hack,scss&exclude_repo=99-bottles-of-oop,rails-basic-forms,basic-rails-mvc,basic-rails-mvc-js,plot-notes,basic-mvc-rails-testing,ruby-design-patterns,josh_website,joshayoung_website,rails-plus-blazor,rails-with-react-redux,rails_sandbox,message-recorder-api,rails_external_api_calls,joshayoung_old_website,rails-basic-scopes,rails-with-react,many-to-many-rails,one-to-many-rails,will-it-rain-ruby,rails-with-docker,rails-exhaustive-examples,rails-design-patterns&langs_count=5&custom_title=Top%20Languages" />
 </p>
 
 <p>
