@@ -15,14 +15,13 @@
 <p>
 	<img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/.NET-512BD4?logo=.NET&logoColor=fff&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/junit5-25A162?logo=junit5&logoColor=000&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/CSharp-239120?logo=CSharp&logoColor=fff&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/xamarin-3498DB?logo=xamarin&logoColor=fff&style=for-the-badge" />
 	<!-- <img src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" /> -->
 	<!-- <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" /> -->
+	<img src="https://img.shields.io/badge/spring boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/junit5-25A162?logo=junit5&logoColor=000&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" />
 	<!-- <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" /> -->
 	<!-- <img src="https://img.shields.io/badge/bash-4EAA25?logo=gnubash&logoColor=000&style=for-the-badge" /> -->
@@ -33,15 +32,22 @@
 	<!-- <img src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=fff&style=for-the-badge" /> -->
 	<!-- <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=fff&style=for-the-badge" /> -->
 	<!-- <img src="https://img.shields.io/badge/ruby-CC342D?logo=ruby&logoColor=fff&style=for-the-badge" /> -->
-	<img src="https://img.shields.io/badge/spring boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge" />
 	<!-- <img src="https://img.shields.io/badge/sqlite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge" /> -->
 	<!-- <img src="https://img.shields.io/badge/xaml-0C54C2?logo=xaml&logoColor=fff&style=for-the-badge" /> -->
+</p>
+
+---
+
+<h3>Databases:</h3>
+<p>
+	<img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/ms sql server-CC2927?logo=microsoftsqlserver&logoColor=000&style=for-the-badge" />
 </p>
 
 ---
 
-<h3 align="left">Tools:</h3>
+<h3>Operating Systems / Tools:</h3>
  <p>
 	<img src="https://img.shields.io/badge/vagrant-1868F2?logo=vagrant&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/curl-073551?logo=curl&logoColor=fff&style=for-the-badge" />
