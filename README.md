@@ -13,11 +13,11 @@
 
 <h3 align="left">Languages:</h3>
 <p>
-	<img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/.NET-512BD4?logo=.NET&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/CSharp-239120?logo=CSharp&logoColor=fff&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/xamarin-3498DB?logo=xamarin&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge" />
 	<!-- <img src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" /> -->
 	<!-- <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" /> -->
 	<img src="https://img.shields.io/badge/spring boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge" />
@@ -72,7 +72,7 @@
 <h3 align="left">My GitHub Stats:</h3>
 
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshayoung&show_icons=true&locale=en&layout=compact&hide=html,vim%20script,coffeescript,SCSS,Dockerfile,hack,scss&exclude_repo=99-bottles-of-oop,rails-basic-forms,basic-rails-mvc,basic-rails-mvc-js,plot-notes,basic-mvc-rails-testing,ruby-design-patterns,josh_website,joshayoung_website,rails-plus-blazor,rails-with-react-redux,rails_sandbox,message-recorder-api,rails_external_api_calls,joshayoung_old_website,rails-basic-scopes,rails-with-react,many-to-many-rails,one-to-many-rails,will-it-rain-ruby,rails-with-docker,rails-exhaustive-examples,rails-design-patterns&langs_count=5&custom_title=Top%20Languages" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshayoung&show_icons=true&locale=en&layout=compact&hide=html,vim%20script,coffeescript,SCSS,Dockerfile,hack,scss&exclude_repo=99-bottles-of-oop,rails-basic-forms,basic-rails-mvc,basic-rails-mvc-js,plot-notes,basic-mvc-rails-testing,ruby-design-patterns,josh_website,joshayoung_website,rails-plus-blazor,rails-with-react-redux,rails_sandbox,message-recorder-api,rails_external_api_calls,joshayoung_old_website,rails-basic-scopes,rails-with-react,many-to-many-rails,one-to-many-rails,will-it-rain-ruby,rails-with-docker,rails-exhaustive-examples,rails-design-patterns&langs_count=6&custom_title=Top%20Languages" />
 </p>
 
 <p>
