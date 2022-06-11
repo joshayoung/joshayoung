@@ -71,18 +71,19 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 
+<table>
+<tr>
+<td>
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshayoung&show_icons=true&locale=en&layout=compact&hide=html,vim%20script,coffeescript,SCSS,Dockerfile,hack,scss&exclude_repo=99-bottles-of-oop,rails-basic-forms,basic-rails-mvc,basic-rails-mvc-js,plot-notes,basic-mvc-rails-testing,ruby-design-patterns,josh_website,joshayoung_website,rails-plus-blazor,rails-with-react-redux,rails_sandbox,message-recorder-api,rails_external_api_calls,joshayoung_old_website,rails-basic-scopes,rails-with-react,many-to-many-rails,one-to-many-rails,will-it-rain-ruby,rails-with-docker,rails-exhaustive-examples,rails-design-patterns&langs_count=6&custom_title=Top%20Languages" />
 </p>
-
-<p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshayoung&hide=stars,contribs&show_icons=true&locale=en" />
-</p>
-
----
-
+</td>
+<td>
 <p>
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshayoung" />
 </p>
+</td>
+</tr>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshayoung&label=views:&color=brightgreen&style=for-the-badge" /></p>
