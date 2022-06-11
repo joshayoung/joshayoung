@@ -84,6 +84,3 @@
 </p>
 </td>
 </tr>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshayoung&label=views:&color=brightgreen&style=for-the-badge" /></p>
