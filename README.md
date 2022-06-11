@@ -49,9 +49,7 @@
 
 <h3>Operating Systems / Tools:</h3>
  <p>
-	<img src="https://img.shields.io/badge/vagrant-1868F2?logo=vagrant&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/curl-073551?logo=curl&logoColor=fff&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
 	<!-- <img src="https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff&style=for-the-badge" /> -->
 	<!-- <img src="https://img.shields.io/badge/macos-000000?logo=macos&logoColor=fff&style=for-the-badge" /> -->
 	<img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
@@ -59,12 +57,20 @@
 	<img src="https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" />
 	<!-- <img src="https://img.shields.io/badge/jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge" /> -->
 	<!-- <img src="https://img.shields.io/badge/modx-102C53?logo=modx&logoColor=fff&style=for-the-badge" /> -->
-	<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=fff&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/Ansible-EE0000?logo=Ansible&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/kali linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" />
 	<!-- <img src="https://img.shields.io/badge/new relic-008C99?logo=newrelic&logoColor=fff&style=for-the-badge" /> -->
 	<!-- <img src="https://img.shields.io/badge/owasp-000000?logo=owasp&logoColor=fff&style=for-the-badge" /> -->
 	<img src="https://img.shields.io/badge/red hat-EE0000?logo=redhat&logoColor=fff&style=for-the-badge" />
+</p>
+
+<h3>DevOps / Cloud:</h3>
+ <p>
+	<img src="https://img.shields.io/badge/vagrant-1868F2?logo=vagrant&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Azure-EE0000?logo=Azure&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Ansible-EE0000?logo=Ansible&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/AWS-EE0000?logo=AWS&logoColor=fff&style=for-the-badge" />
 </p>
 
 ---
@@ -72,15 +78,12 @@
 <h3 align="left">My GitHub Stats:</h3>
 
 <table>
-<tr>
-<td>
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshayoung&show_icons=true&locale=en&layout=compact&hide=html,vim%20script,coffeescript,SCSS,Dockerfile,hack,scss&exclude_repo=99-bottles-of-oop,rails-basic-forms,basic-rails-mvc,basic-rails-mvc-js,plot-notes,basic-mvc-rails-testing,ruby-design-patterns,josh_website,joshayoung_website,rails-plus-blazor,rails-with-react-redux,rails_sandbox,message-recorder-api,rails_external_api_calls,joshayoung_old_website,rails-basic-scopes,rails-with-react,many-to-many-rails,one-to-many-rails,will-it-rain-ruby,rails-with-docker,rails-exhaustive-examples,rails-design-patterns&langs_count=6&custom_title=Top%20Languages" />
-</p>
-</td>
-<td>
-<p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshayoung" />
-</p>
-</td>
-</tr>
+	<tr>
+		<td>
+			<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshayoung&show_icons=true&locale=en&layout=compact&hide=html,vim%20script,coffeescript,SCSS,Dockerfile,hack,scss&exclude_repo=99-bottles-of-oop,rails-basic-forms,basic-rails-mvc,basic-rails-mvc-js,plot-notes,basic-mvc-rails-testing,ruby-design-patterns,josh_website,joshayoung_website,rails-plus-blazor,rails-with-react-redux,rails_sandbox,message-recorder-api,rails_external_api_calls,joshayoung_old_website,rails-basic-scopes,rails-with-react,many-to-many-rails,one-to-many-rails,will-it-rain-ruby,rails-with-docker,rails-exhaustive-examples,rails-design-patterns&langs_count=6&custom_title=Top%20Languages" />
+		</td>
+		<td>
+			<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshayoung" />
+		</td>
+	</tr>
+</table>
