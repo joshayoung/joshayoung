@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages / Frameworks:</h3>
 <p>
 	<img src="https://img.shields.io/badge/.NET-512BD4?logo=.NET&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/CSharp-239120?logo=CSharp&logoColor=fff&style=for-the-badge" />
@@ -21,7 +21,7 @@
 	<!-- <img src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" /> -->
 	<!-- <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" /> -->
 	<img src="https://img.shields.io/badge/spring boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/junit5-25A162?logo=junit5&logoColor=000&style=for-the-badge" />
+	<!-- <img src="https://img.shields.io/badge/junit5-25A162?logo=junit5&logoColor=000&style=for-the-badge" /> -->
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" />
 	<!-- <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" /> -->
 	<!-- <img src="https://img.shields.io/badge/bash-4EAA25?logo=gnubash&logoColor=000&style=for-the-badge" /> -->
