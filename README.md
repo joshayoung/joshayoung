@@ -43,6 +43,7 @@
 	<img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/ms sql server-CC2927?logo=microsoftsqlserver&logoColor=000&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Oracle-CC2927?logo=oracle&logoColor=000&style=for-the-badge" />
 </p>
 
 ---
@@ -60,13 +61,14 @@
 	<img src="https://img.shields.io/badge/kali linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" />
 	<!-- <img src="https://img.shields.io/badge/new relic-008C99?logo=newrelic&logoColor=fff&style=for-the-badge" /> -->
 	<!-- <img src="https://img.shields.io/badge/owasp-000000?logo=owasp&logoColor=fff&style=for-the-badge" /> -->
+	<img src="https://img.shields.io/badge/Windows-2496ED?logo=Windows&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/red hat-EE0000?logo=redhat&logoColor=fff&style=for-the-badge" />
 </p>
 
 <h3>DevOps / Cloud:</h3>
  <p>
 	<img src="https://img.shields.io/badge/vagrant-1868F2?logo=vagrant&logoColor=fff&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
+	<!-- <img src="https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" /> -->
 	<img src="https://img.shields.io/badge/Azure-EE0000?logo=Azure&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/Ansible-EE0000?logo=Ansible&logoColor=fff&style=for-the-badge" />
