@@ -14,9 +14,9 @@
 <p>
 	<img src="https://img.shields.io/badge/.NET-512BD4?logo=.NET&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/CSharp-239120?logo=CSharp&logoColor=fff&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/xamarin-3498DB?logo=xamarin&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/xamarin-3498DB?logo=xamarin&logoColor=fff&style=for-the-badge" />
 	<!-- <img src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" /> -->
 	<!-- <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" /> -->
 	<img src="https://img.shields.io/badge/spring boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge" />
@@ -40,9 +40,9 @@
 <h3>Databases:</h3>
 <p>
 	<img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/ms sql server-CC2927?logo=microsoftsqlserver&logoColor=000&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/Oracle-CC2927?logo=oracle&logoColor=000&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=000&style=for-the-badge" />
 </p>
 
 ---
@@ -54,10 +54,10 @@
 	<!-- <img src="https://img.shields.io/badge/macos-000000?logo=macos&logoColor=fff&style=for-the-badge" /> -->
 	<img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
 	<!-- <img src="https://img.shields.io/badge/vim-019733?logo=vim&logoColor=fff&style=for-the-badge" /> -->
+	<img src="https://img.shields.io/badge/kali linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" />
 	<!-- <img src="https://img.shields.io/badge/jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge" /> -->
 	<!-- <img src="https://img.shields.io/badge/modx-102C53?logo=modx&logoColor=fff&style=for-the-badge" /> -->
-	<img src="https://img.shields.io/badge/kali linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" />
 	<!-- <img src="https://img.shields.io/badge/new relic-008C99?logo=newrelic&logoColor=fff&style=for-the-badge" /> -->
 	<!-- <img src="https://img.shields.io/badge/owasp-000000?logo=owasp&logoColor=fff&style=for-the-badge" /> -->
 	<img src="https://img.shields.io/badge/Windows-2496ED?logo=Windows&logoColor=fff&style=for-the-badge" />
@@ -67,11 +67,11 @@
 <h3>DevOps / Cloud:</h3>
  <p>
 	<img src="https://img.shields.io/badge/vagrant-1868F2?logo=vagrant&logoColor=fff&style=for-the-badge" />
-	<!-- <img src="https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" /> -->
-	<img src="https://img.shields.io/badge/Azure-EE0000?logo=Azure&logoColor=fff&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/Ansible-EE0000?logo=Ansible&logoColor=fff&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/AWS-EE0000?logo=AWS&logoColor=fff&style=for-the-badge" />
+	<!-- <img src="https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" /> -->
+	<img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/aws-232F3E?logo=amazon-aws&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=fff&style=for-the-badge" />
 </p>
 
 ---
