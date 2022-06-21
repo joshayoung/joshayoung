@@ -1,5 +1,4 @@
-<h1 >Josh Young</h1>
-<h3>I Build Web Services, APIs, and Applications with Java and C#.</h3>
+<img src='/background.png' alt='Software Engineer C# - Java - Backend Development' />
 
 - Visit My [Website](//www.joshayoung.com).
 
