@@ -74,8 +74,7 @@
 	<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=fff&style=for-the-badge" />
 </p>
 
----
-
+<!-- 
 <h3 align="left">My GitHub Stats:</h3>
 
 <table>
@@ -87,4 +86,4 @@
 			<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshayoung" />
 		</td>
 	</tr>
-</table>
+</table> -->
