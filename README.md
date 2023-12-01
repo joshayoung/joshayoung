@@ -1,4 +1,4 @@
-<img src='/background.png' alt='Software Engineer C# - Java - Backend Development' />
+<h1>Software Engineer - Mobile and Backend Development</h1>
 
 - Visit My [Website](//www.joshayoung.com).
 
