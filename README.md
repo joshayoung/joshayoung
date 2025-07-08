@@ -1,4 +1,4 @@
-<h1>Software Engineer - Mobile and Backend Development</h1>
+<h1>Mobile Software Engineer</h1>
 
 - Visit My [Website](//www.joshayoung.com).
 
